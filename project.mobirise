@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site 2025-06-21 13:39-clone",
-    "currentPage": "page9.html",
+    "currentPage": "Beranda.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -64,7 +64,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "page1.html": {
